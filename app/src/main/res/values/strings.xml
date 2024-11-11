@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory game</string>
+    <string name="refresh">Refresh</string>
+    <string name="choose_boardsize">Choose Boardsize</string>
+</resources>
